@@ -1,4 +1,4 @@
-[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=https://www.youtube.com/watch?v=9ssjhqC-uFs)
+[![Watch the video](https://www.youtube.com/watch?v=9ssjhqC-uF)]
 
 
 # Crazyflie AI and Ball Supervisor
