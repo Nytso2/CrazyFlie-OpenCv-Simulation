@@ -1,3 +1,6 @@
+[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=https://www.youtube.com/watch?v=9ssjhqC-uFs)
+
+
 # Crazyflie AI and Ball Supervisor
 
 This repository contains code for controlling a Crazyflie drone and managing a ball in Webots using Python. The system uses computer vision, PID control, and keyboard input to enable movement and tracking tasks.
