@@ -1,4 +1,4 @@
-[![Watch the demo](https://img.youtube.com/vi/9ssjhqC-uFs/0.jpg)](https://www.youtube.com/watch?v=9ssjhqC-uFs)
+[▶️ Watch the demo](media/CrazyFlie_Webots_Camera_Vision.mp4)
 
 
 # Crazyflie AI and Ball Supervisor
