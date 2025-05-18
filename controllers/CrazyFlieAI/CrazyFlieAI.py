@@ -1,9 +1,12 @@
 """
 File name: CrazyFlieAI.py
 
-Authors: 
+Authors: Luis Coronel , Philip Kwan, Saad Ahmed Khan Ghori , Kidus Tegene
 
-Description: 
+Description: This Python script controls a simulated Crazyflie drone using the Webots robot simulator. 
+It tracks and follows a green ball in real time using OpenCV-based image processing. 
+The drone adjusts its height, yaw, and forward velocity based on the ball's position and size in the camera frame.
+A PID controller is used to maintain stable flight at a fixed altitude while dynamically adjusting motion to follow the target.
 
 """
 
